@@ -1,5 +1,8 @@
 # infra-docker-install-auto
 
+## DEPRECATED
+- Use repo on https://github.com/portalnetcar/infra-docker-install-auto
+
 
 ## HowTo use?
 - Run the following command:
